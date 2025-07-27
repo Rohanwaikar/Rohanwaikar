@@ -27,5 +27,5 @@ I love working with **React**, **JavaScript**, and exploring tools in the **AI +
 
 ## 📫 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/rohan-waikar-202039112/)
-- 🌐 [Portfolio](https://your-portfolio.com)
+- 🌐 [Portfolio](https://rohan-waikar-portfolio.netlify.app/)
 
