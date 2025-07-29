@@ -19,12 +19,6 @@ I love working with **React**, **JavaScript**, and exploring tools in the **AI +
 
 ---
 
-## 🚀 Currently Building
-- 🧠 Google NotebookLM Clone using React + Python + LLM
-- 🌿 Shinobi Lakeview Agrotourism website & product store
-
----
-
 ## 📫 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/rohan-waikar-202039112/)
 - 🌐 [Portfolio](https://rohan-waikar-portfolio.netlify.app/)
