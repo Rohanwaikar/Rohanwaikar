@@ -1,7 +1,7 @@
 # Hi 👋, I'm Rohan Waikar
 
 I'm a **Frontend Developer** passionate about building intuitive, scalable, and responsive web applications.  
-I love working with **React**, **JavaScript**, and exploring tools in the **AI + Developer** space!
+I love working with **React**, **JavaScript**, and exploring tools in the **Cloud + Developer** space!
 
 ---
 
